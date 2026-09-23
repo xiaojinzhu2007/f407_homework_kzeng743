@@ -1,0 +1,6 @@
+C:/Users/xiaojinzhu/Downloads/f407_homework_kzeng743/stm32f407vgt6/build/Release/CMakeFiles/test1.dir
+C:/Users/xiaojinzhu/Downloads/f407_homework_kzeng743/stm32f407vgt6/build/Release/CMakeFiles/edit_cache.dir
+C:/Users/xiaojinzhu/Downloads/f407_homework_kzeng743/stm32f407vgt6/build/Release/CMakeFiles/rebuild_cache.dir
+C:/Users/xiaojinzhu/Downloads/f407_homework_kzeng743/stm32f407vgt6/build/Release/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/xiaojinzhu/Downloads/f407_homework_kzeng743/stm32f407vgt6/build/Release/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/xiaojinzhu/Downloads/f407_homework_kzeng743/stm32f407vgt6/build/Release/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
