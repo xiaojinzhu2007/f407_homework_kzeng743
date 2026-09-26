@@ -60,14 +60,14 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "STM32_Drivers::@768a070a0fe75716b479",
-					"jsonFile" : "target-STM32_Drivers-Debug-a8686d8e423e05c08dc2.json",
+					"jsonFile" : "target-STM32_Drivers-Debug-5fd7bca9fb95748d7c1c.json",
 					"name" : "STM32_Drivers",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "test1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-test1-Debug-dd81254bcba78d1ab165.json",
+					"jsonFile" : "target-test1-Debug-dca5e7feebaaf4a9febc.json",
 					"name" : "test1",
 					"projectIndex" : 0
 				}
@@ -77,8 +77,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/STM32/test1/build/Debug",
-		"source" : "D:/STM32/test1"
+		"build" : "C:/Users/xiaojinzhu/Downloads/f407_homework_kzeng743/test1/build/Debug",
+		"source" : "C:/Users/xiaojinzhu/Downloads/f407_homework_kzeng743/test1"
 	},
 	"version" : 
 	{
